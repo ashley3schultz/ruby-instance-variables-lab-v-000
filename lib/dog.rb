@@ -1,4 +1,4 @@
 class Dog 
-  @lassie = "lassie"
+  @this_dog_name = "lassie"
   
 end
