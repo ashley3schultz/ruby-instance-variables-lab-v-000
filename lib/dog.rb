@@ -1,6 +1,6 @@
 class Dog 
-  def name=(dog_name)
-    @this_dogs_name = dog_name #writer method - this is an instance variable
+  def name=(dog_name) #writer method
+    @this_dogs_name = dog_name #this is an instance variable
   end
   
   def name
