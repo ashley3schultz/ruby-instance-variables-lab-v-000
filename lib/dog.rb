@@ -1,4 +1,4 @@
 class Dog 
-  @this_dog_name = "lassie"
+  def this_dog_name=(name)
   
 end
